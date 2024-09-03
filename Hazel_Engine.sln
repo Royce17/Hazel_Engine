@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hazel_Engine", "Hazel_Engine.vcxproj", "{2DB8731C-763D-4017-9299-62B38DC849E2}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{154BF406-B920-4403-B85F-09229BC5B562}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hazel_Engine", "Hazel_Engine.vcxproj", "{2DB8731C-763D-4017-9299-62B38DC849E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

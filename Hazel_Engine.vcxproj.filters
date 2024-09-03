@@ -15,8 +15,14 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Hazel_Engine.cpp">
+    <ClCompile Include="src\Test.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Module.ixx" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\Test.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
