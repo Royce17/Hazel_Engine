@@ -2,9 +2,9 @@ export module hazel;
 
 import <print>;
 
-export namespace hazel
+namespace hazel
 {
-    __declspec(dllexport) void print()
+    export __declspec(dllexport) void print()
     {
         std::print("Welcome to Hazel Engine!");
     };
